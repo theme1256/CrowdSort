@@ -1,0 +1,15 @@
+
+Redirect 301 /om /about
+Redirect 301 /kontakt /about
+Redirect 301 /contact /about
+Redirect 301 /logout /scripts/logout.php
+
+Options -MultiViews
+RewriteEngine On
+RewriteCond %{DOCUMENT_ROOT}/$1\.php -f [NC]
+RewriteRule ^([^/]+)/?$ $1.php [L]
+
+RewriteRule ^album/(.*)$ album.php?ID=$1
+RewriteRule ^image/(.*)$ image.php?ID=$1
+RewriteRule ^user/(.*)$ user.php?user=$1
+RewriteRule ^activate/(.*)/(.*)$ activate.php?u=$1&key=$2

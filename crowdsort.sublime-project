@@ -1,0 +1,26 @@
+{
+	"folders":
+	[
+		{
+			"path": "ajax"
+		},
+		{
+			"path": "css"
+		},
+		{
+			"path": "img"
+		},
+		{
+			"path": "js"
+		},
+		{
+			"path": "include"
+		},
+		{
+			"path": "web"
+		},
+		{
+			"path": "scripts"
+		}
+	]
+}

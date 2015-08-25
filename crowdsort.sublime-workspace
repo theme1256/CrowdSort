@@ -1,0 +1,968 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"erro",
+				"errors"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"sec",
+				"secondBar"
+			],
+			[
+				"head",
+				"head-bg"
+			],
+			[
+				"top",
+				"topBar"
+			],
+			[
+				"check",
+				"checkAccess"
+			],
+			[
+				"series",
+				"seriesTier"
+			],
+			[
+				"processor",
+				"processorID"
+			],
+			[
+				"_pro",
+				"_processorL"
+			],
+			[
+				"Done",
+				"DonePCLine"
+			],
+			[
+				"ut",
+				"utf8_encode"
+			],
+			[
+				"mysqli_e",
+				"mysqli_errno"
+			],
+			[
+				"mysql",
+				"mysql_errno"
+			],
+			[
+				"pcSeries",
+				"pcSeriesVersion"
+			],
+			[
+				"new",
+				"newSeriesVersion"
+			],
+			[
+				"utf8_",
+				"utf8_encode"
+			],
+			[
+				"Produ",
+				"Producent"
+			],
+			[
+				"producent",
+				"producentID"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"ASC",
+				"ASCRIPTS"
+			],
+			[
+				"DON",
+				"DonePC"
+			],
+			[
+				"utf",
+				"utf8_decode"
+			],
+			[
+				"Faktura",
+				"FakturaBetaling"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"upgr",
+				"upgrades"
+			],
+			[
+				"upgrade",
+				"upgrades"
+			],
+			[
+				"keyboar",
+				"keyboards"
+			],
+			[
+				"keyboa",
+				"keyboard"
+			],
+			[
+				"moni",
+				"monitors"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"monitor",
+				"monitorNavn"
+			],
+			[
+				"monito",
+				"monitorNavn"
+			],
+			[
+				"produc",
+				"producent"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"is_",
+				"is_array"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"_S",
+				"_POST"
+			],
+			[
+				"glo",
+				"global"
+			],
+			[
+				"mysqli_feth",
+				"mysqli_fetch_array"
+			],
+			[
+				"Upgr",
+				"UpgradePay"
+			],
+			[
+				"Rep",
+				"RepairPay"
+			],
+			[
+				"U",
+				"UpgradePay"
+			],
+			[
+				"oder",
+				"orderID"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"slide-img",
+				"slide-img-container"
+			],
+			[
+				"sli",
+				"slide-img"
+			],
+			[
+				"buy",
+				"buying"
+			],
+			[
+				"repa",
+				"Reparation"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"str_",
+				"str_replace"
+			],
+			[
+				"slider",
+				"slider-items"
+			],
+			[
+				"error",
+				"error_log"
+			],
+			[
+				"t",
+				"typing"
+			],
+			[
+				"pat",
+				"patientens"
+			],
+			[
+				"Patin",
+				"Patients"
+			],
+			[
+				"patin",
+				"patientNavn1"
+			],
+			[
+				"pati",
+				"patientCPR5"
+			],
+			[
+				"p",
+				"patientCPR5"
+			],
+			[
+				"str",
+				"strcmp"
+			],
+			[
+				"find",
+				"findCPR"
+			],
+			[
+				"pa",
+				"patientCPR1"
+			],
+			[
+				"all",
+				"allAverage"
+			],
+			[
+				"a",
+				"average"
+			],
+			[
+				"Turn",
+				"TurnOffLED"
+			],
+			[
+				"digi",
+				"digitalWrite"
+			],
+			[
+				"Pa",
+				"patientEfternavn"
+			],
+			[
+				"run",
+				"runNum"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".htaccess",
+			"settings":
+			{
+				"buffer_size": 423,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "activate.php",
+			"settings":
+			{
+				"buffer_size": 1609,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "about.php",
+			"settings":
+			{
+				"buffer_size": 448,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "album.php",
+			"settings":
+			{
+				"buffer_size": 153,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "home.php",
+			"settings":
+			{
+				"buffer_size": 3858,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "image.php",
+			"settings":
+			{
+				"buffer_size": 104,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 5599,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "register.php",
+			"settings":
+			{
+				"buffer_size": 1275,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "login.php",
+			"settings":
+			{
+				"buffer_size": 933,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "invite.php",
+			"settings":
+			{
+				"buffer_size": 104,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "user.php",
+			"settings":
+			{
+				"buffer_size": 2369,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/MEGA/Web/crowdsort/js/dropzone.js",
+		"/E/MEGA/Web/crowdsort/scripts/profilePic.php",
+		"/E/MEGA/Web/crowdsort/css/style.css",
+		"/E/MEGA/Web/crowdsort/include/top.php",
+		"/E/MEGA/Web/crowdsort/js/filedragPC.js",
+		"/E/MEGA/Web/crowdsort/include/head.php",
+		"/E/MEGA/Web/crowdsort/scripts/updateUser.php",
+		"/E/MEGA/Web/crowdsort/scripts/register.php",
+		"/E/MEGA/Web/crowdsort/include/head-main.php",
+		"/E/MEGA/Web/crowdsort/include/foot.php",
+		"/E/MEGA/Web/crowdsort/include/foot-main.php",
+		"/E/MEGA/Web/crowdsort/css/bootstrap.min.css",
+		"/E/MEGA/Web/crowdsort/css/bootstrap.css",
+		"/E/MEGA/Web/crowdsort/css/theme-style.css",
+		"/E/MEGA/Web/crowdsort/scripts/logout.php",
+		"/E/MEGA/Web/crowdsort/scripts/login.php",
+		"/E/MEGA/Web/crowdsort/homephp.html",
+		"/E/MEGA/Web/crowdsort/script/register.php",
+		"/E/MEGA/Web/crowdsort/user.php",
+		"/E/MEGA/Web/crowdsort/script/login.php",
+		"/C/Users/Folkmann/Downloads/slider-captcha/functions.php",
+		"/E/MEGA/Web/crowdsort/web/index.html",
+		"/C/Users/Folkmann/AppData/Local/Temp/Rar$DRa0.294/web/index.html",
+		"/E/MEGA/Web/colleruphus/public_html/.htaccess",
+		"/E/MEGA/Web/folkmann/_htaccess",
+		"/E/MEGA/Web/a.confs/personlig.conf",
+		"/E/MEGA/Web/PCbyggerne/admin/scripts/txt.php",
+		"/C/Users/Folkmann/Desktop/serverting.txt",
+		"/C/Users/Folkmann/Desktop/todo server.txt",
+		"/E/MEGA/Web/SQL-backup/2015-03-11 - Nu med SSD/Brugere.txt",
+		"/E/Backup - ny SSD/mysite.conf",
+		"/E/MEGA/Web/spejder/bjoerne/etc/top.php",
+		"/E/MEGA/Web/spejder/bjoerne/etc/header.php",
+		"/E/MEGA/Web/mysite.conf",
+		"/E/MEGA/Web/folkmann/index.php",
+		"/E/MEGA/Web/minecraft/test.php",
+		"/E/MEGA/Web/PCbyggerne/admin/editDone.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/scripts/done.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/scripts/add/fan.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/templateAdd/Fan.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/scripts/add/watercooler.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/scripts/add/ssd.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/scripts/add/ram.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/scripts/add/raidcard.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/scripts/add/psu.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/scripts/add/processor.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/scripts/add/optisk.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/scripts/add/networkcard.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/scripts/add/motherboard.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/scripts/add/kabinet.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/scripts/add/harddisk.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/scripts/add/cooler.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/scripts/add/grafikkort.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/templateAdd/Watercooler.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/templateAdd/SSD.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/templateAdd/RAM.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/templateAdd/RAIDcard.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/templateAdd/Processor.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/templateAdd/Powersupply.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/templateAdd/Optisk.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/templateAdd/Networkcard.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/templateAdd/Motherboard.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/templateAdd/Kabinet.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/templateAdd/Harddisk.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/templateAdd/Grafikkort.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/templateAdd/Cooler.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/header.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/imgUpload.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/templateDate/watercooler.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/templateDate/ssd.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/templateDate/ram.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/templateDate/raidcard.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/templateDate/psu.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/templateDate/processor.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/templateDate/optisk.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/templateDate/networkcard.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/templateDate/motherboard.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/templateDate/kabinet.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/templateDate/harddisk.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/templateDate/fan.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/templateDate/grafikkort.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/templateDate/cooler.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/templateAll/watercooler.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/templateAll/raidcard.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/templateAll/ssd.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/templateAll/ram.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/templateAll/networkcard.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/templateAll/optisk.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/templateAll/processor.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/templateAll/psu.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/templateAll/motherboard.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/templateAll/kabinet.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/templateAll/harddisk.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/templateAll/grafikkort.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/templateAll/fan.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/templateAll/cooler.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/editDone.php",
+		"/C/Users/Folkmann/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Folkmann/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Folkmann/Documents/MEGA/Web/ITC/.htaccess",
+		"/C/Users/Folkmann/Documents/MEGA/Web/ITC/index.php",
+		"/C/Users/Folkmann/Dropbox/ITC 2014/P1/B125/Teknisk/GUI/firewall.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/build.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/problem.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/simple.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/listUpgrades.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/upgrade.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/listBuild.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/listProblems.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/listSimple.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/admin/include/footer.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/include/header.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/include/top.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/fejlsider/500.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/fejlsider/404.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/fejlsider/403.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/scripts/updateKurv.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/scripts/opret-bruger.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/scripts/login.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/scripts/kurv.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/scripts/glemt-kodeord.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/BETA/include/sidebar_right.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/BETA/scripts/updateKurv.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/BETA/scripts/kurv.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/BETA/scripts/glemt-kodeord.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/BETA/css/style.css",
+		"/C/Users/Folkmann/Documents/MEGA/Web/TurboSpejd/oversigt.php",
+		"/C/Users/Folkmann/Documents/MEGA/Web/PCbyggerne/scripts/doLogin.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dictDefaultMessage",
+			"hover",
+			"a:hover",
+			"li>a:hover{",
+			"li>a{",
+			">a{",
+			">a.menu{",
+			">a{",
+			"/*!",
+			"?>",
+			"a{col",
+			"a{",
+			" }",
+			"images",
+			"td",
+			"^",
+			"class=\\\"cross\\\"",
+			"computer",
+			">\";",
+			"++;\n",
+			"monitor",
+			"pageName",
+			"kurv",
+			"process",
+			"utf8",
+			"define(",
+			"/\n",
+			"Arrays",
+			"Array",
+			"patientCPR"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"img",
+			"li",
+			"/",
+			"class=\\\"cross\\\" alt=\\\"\\\" title=\\\"Slet denne vare\\\"",
+			">\\n\";",
+			"mouse",
+			"@define(",
+			"Patients",
+			"patientNavn"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 10,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".htaccess",
+					"settings":
+					{
+						"buffer_size": 423,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								423,
+								423
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "activate.php",
+					"settings":
+					{
+						"buffer_size": 1609,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								739,
+								739
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "about.php",
+					"settings":
+					{
+						"buffer_size": 448,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								167,
+								167
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "album.php",
+					"settings":
+					{
+						"buffer_size": 153,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								102,
+								102
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "home.php",
+					"settings":
+					{
+						"buffer_size": 3858,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								280,
+								280
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "image.php",
+					"settings":
+					{
+						"buffer_size": 104,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								104,
+								104
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 5599,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								910,
+								687
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 14.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "register.php",
+					"settings":
+					{
+						"buffer_size": 1275,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								364,
+								364
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "login.php",
+					"settings":
+					{
+						"buffer_size": 933,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								361,
+								224
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "invite.php",
+					"settings":
+					{
+						"buffer_size": 104,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5,
+								5
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "user.php",
+					"settings":
+					{
+						"buffer_size": 2369,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								372,
+								372
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
