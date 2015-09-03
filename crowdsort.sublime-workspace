@@ -319,7 +319,7 @@
 			"file": "album.php",
 			"settings":
 			{
-				"buffer_size": 153,
+				"buffer_size": 2683,
 				"line_ending": "Windows"
 			}
 		},
@@ -327,7 +327,7 @@
 			"file": "home.php",
 			"settings":
 			{
-				"buffer_size": 3858,
+				"buffer_size": 3834,
 				"line_ending": "Windows"
 			}
 		},
@@ -343,7 +343,7 @@
 			"file": "index.php",
 			"settings":
 			{
-				"buffer_size": 5599,
+				"buffer_size": 5616,
 				"line_ending": "Windows"
 			}
 		},
@@ -694,15 +694,15 @@
 					"file": "album.php",
 					"settings":
 					{
-						"buffer_size": 153,
+						"buffer_size": 2683,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								102,
-								102
+								0,
+								0
 							]
 						],
 						"settings":
@@ -722,15 +722,15 @@
 					"file": "home.php",
 					"settings":
 					{
-						"buffer_size": 3858,
+						"buffer_size": 3834,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								280,
-								280
+								0,
+								0
 							]
 						],
 						"settings":
@@ -775,15 +775,15 @@
 					"file": "index.php",
 					"settings":
 					{
-						"buffer_size": 5599,
+						"buffer_size": 5616,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								910,
-								687
+								0,
+								0
 							]
 						],
 						"settings":
