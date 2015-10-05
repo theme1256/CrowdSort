@@ -295,7 +295,7 @@
 			"file": ".htaccess",
 			"settings":
 			{
-				"buffer_size": 423,
+				"buffer_size": 0,
 				"line_ending": "Windows"
 			}
 		},
@@ -303,7 +303,7 @@
 			"file": "activate.php",
 			"settings":
 			{
-				"buffer_size": 1609,
+				"buffer_size": 0,
 				"line_ending": "Windows"
 			}
 		},
@@ -311,7 +311,7 @@
 			"file": "about.php",
 			"settings":
 			{
-				"buffer_size": 448,
+				"buffer_size": 0,
 				"line_ending": "Windows"
 			}
 		},
@@ -319,7 +319,7 @@
 			"file": "album.php",
 			"settings":
 			{
-				"buffer_size": 2683,
+				"buffer_size": 0,
 				"line_ending": "Windows"
 			}
 		},
@@ -327,7 +327,7 @@
 			"file": "home.php",
 			"settings":
 			{
-				"buffer_size": 3834,
+				"buffer_size": 0,
 				"line_ending": "Windows"
 			}
 		},
@@ -335,7 +335,7 @@
 			"file": "image.php",
 			"settings":
 			{
-				"buffer_size": 104,
+				"buffer_size": 0,
 				"line_ending": "Windows"
 			}
 		},
@@ -343,7 +343,7 @@
 			"file": "index.php",
 			"settings":
 			{
-				"buffer_size": 5616,
+				"buffer_size": 0,
 				"line_ending": "Windows"
 			}
 		},
@@ -351,7 +351,7 @@
 			"file": "register.php",
 			"settings":
 			{
-				"buffer_size": 1275,
+				"buffer_size": 0,
 				"line_ending": "Windows"
 			}
 		},
@@ -359,7 +359,7 @@
 			"file": "login.php",
 			"settings":
 			{
-				"buffer_size": 933,
+				"buffer_size": 0,
 				"line_ending": "Windows"
 			}
 		},
@@ -367,7 +367,7 @@
 			"file": "invite.php",
 			"settings":
 			{
-				"buffer_size": 104,
+				"buffer_size": 0,
 				"line_ending": "Windows"
 			}
 		},
@@ -375,7 +375,7 @@
 			"file": "user.php",
 			"settings":
 			{
-				"buffer_size": 2369,
+				"buffer_size": 0,
 				"line_ending": "Windows"
 			}
 		}
@@ -613,15 +613,15 @@
 					"file": ".htaccess",
 					"settings":
 					{
-						"buffer_size": 423,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								423,
-								423
+								0,
+								0
 							]
 						],
 						"settings":
@@ -640,15 +640,15 @@
 					"file": "activate.php",
 					"settings":
 					{
-						"buffer_size": 1609,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								739,
-								739
+								0,
+								0
 							]
 						],
 						"settings":
@@ -667,15 +667,15 @@
 					"file": "about.php",
 					"settings":
 					{
-						"buffer_size": 448,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								167,
-								167
+								0,
+								0
 							]
 						],
 						"settings":
@@ -694,7 +694,7 @@
 					"file": "album.php",
 					"settings":
 					{
-						"buffer_size": 2683,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
@@ -722,7 +722,7 @@
 					"file": "home.php",
 					"settings":
 					{
-						"buffer_size": 3834,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
@@ -749,15 +749,15 @@
 					"file": "image.php",
 					"settings":
 					{
-						"buffer_size": 104,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								104,
-								104
+								0,
+								0
 							]
 						],
 						"settings":
@@ -775,7 +775,7 @@
 					"file": "index.php",
 					"settings":
 					{
-						"buffer_size": 5616,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
@@ -792,7 +792,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 14.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -802,15 +802,15 @@
 					"file": "register.php",
 					"settings":
 					{
-						"buffer_size": 1275,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								364,
-								364
+								0,
+								0
 							]
 						],
 						"settings":
@@ -829,15 +829,15 @@
 					"file": "login.php",
 					"settings":
 					{
-						"buffer_size": 933,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								361,
-								224
+								0,
+								0
 							]
 						],
 						"settings":
@@ -856,15 +856,15 @@
 					"file": "invite.php",
 					"settings":
 					{
-						"buffer_size": 104,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5,
-								5
+								0,
+								0
 							]
 						],
 						"settings":
@@ -882,15 +882,15 @@
 					"file": "user.php",
 					"settings":
 					{
-						"buffer_size": 2369,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								372,
-								372
+								0,
+								0
 							]
 						],
 						"settings":
