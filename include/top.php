@@ -39,10 +39,11 @@
 		return $felt;
 	}
 
-	function encrypt($p){
-		$p = rens($p);
-		$s = sha1(md5($p));
-		return md5($p.$s);
+	function haash($p){
+		$cost = 10;
+		$salt = strtr(base64_encode(mcrypt_create_iv(16, MCRYPT_DEV_URANDOM)), '+', '.');
+		$salt = sprintf("$2a$%02d$", $cost) . $salt;
+		return password_hash($p, PASSWORD_BCRYPT, ['cost' => $cost, 'salt' => $salt]);
 	}
 
 	function checkAccess(){

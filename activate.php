@@ -3,8 +3,8 @@
     if(isset($_GET['key']) && isset($_GET['u'])){
     	$key = rens($_GET['key']);
     	$alias = rens($_GET['u']);
-    	if(mysqli_num_rows(mysqli_query($con, "SELECT * FROM Users WHERE pass='$key' AND alias='$alias'")) == 1){
-    		mysqli_query($con,"UPDATE Users SET activated='1' WHERE pass='$key' AND alias='$alias'");
+    	if(mysqli_num_rows(mysqli_query($con, "SELECT * FROM Logins WHERE pass='$key' AND alias='$alias'")) == 1){
+    		mysqli_query($con,"UPDATE Logins SET activated='1' WHERE pass='$key' AND alias='$alias'");
 ?>
 <div class="productive.ly">
 	<div id="cbp-so-scroller" class="cbp-so-scroller">

@@ -172,7 +172,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 <div class="collapse navbar-collapse navbar-main-collapse top-nav">
                     <ul class="nav navbar-nav full-nav-top">
                         <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
-                        <?php if(checkAccess()){ $uID = $_SESSION['userID']; $r = mysqli_fetch_array(mysqli_query($con,"SELECT * FROM Users WHERE userID=$uID"));?>
+                        <?php if(checkAccess()){ $uID = $_SESSION['userID']; $r = mysqli_fetch_array(mysqli_query($con,"SELECT * FROM Logins WHERE userID=$uID"));?>
                         <li class="">
                             <a class="subNavBtn menu" href="/home">Crowdsort</a>
                         </li>

@@ -41,7 +41,7 @@
 
 		if(move_uploaded_file($_FILES['file']['tmp_name'], $path.md5($_FILES['file']['name'].$dato))){
 			chmod($path.md5($_FILES['file']['name'].$dato), 0777);
-			mysqli_query($con,"UPDATE Users SET pic='".md5($_FILES['file']['name'].$dato)."' WHERE userID=".$_SESSION['userID']);
+			mysqli_query($con,"UPDATE Logins SET pic='".md5($_FILES['file']['name'].$dato)."' WHERE userID=".$_SESSION['userID']);
 			echo '{"status":"success"}';
 			exit;
 		}
