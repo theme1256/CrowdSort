@@ -4,7 +4,7 @@
 <div class="productive.ly">
 	<div id="cbp-so-scroller" class="cbp-so-scroller">
 		<div class="content_top">
-			<div class="ipad_desc" id="about">
+			<div class="col-md-6 col-md-offset-3" id="about">
 				<h3>Register</h3>
 				<?php if(!empty($_SESSION['errors'])){?>
 				<p>Error: <?php echo $_SESSION['errors']; $_SESSION['errors'] = "";?></p>

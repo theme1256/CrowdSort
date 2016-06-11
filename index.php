@@ -2,7 +2,7 @@
     include "/var/www/crowdsort/include/head-main.php";
 ?>
 <!---- start-top-grids---->
-<div  class="features s2">
+<div class="features s2">
 	<div class="container-fluid">
 		<div class="row top-grids">
 			<div class="col-md-4 text-center grid1">

@@ -4,7 +4,7 @@
 <div class="">
 	<div class="container-fluid">
 		<div class="row top-grids">
-			<div class="col-md-4 text-center grid1">
+			<div class="col-md-4 text-center grid1 col-md-offset-2">
 				<div class="grid">
 					<img src="/img/profile/<?php echo $r['pic'];?>" alt="" class="profilePic"> 
 					<h2>Welcome <?php echo $_SESSION['alias'];?></h2>
@@ -20,6 +20,7 @@
 					<p>
 						<a href="/user">Your profile</a><br>
 						<a href="/album">Create album</a><br/>
+						<a href="/friends">My friends</a><br/>
 					</p>
 				</div>
 			</div>
