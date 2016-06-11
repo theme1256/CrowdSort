@@ -5,8 +5,15 @@
 <?php }else{ // Et nyt album ?>
 <div class="">
     <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-4">
+                <div class="grid" id="errors">
+                </div>
+            </div>
+            <div class="clearfix"> </div>
+        </div>
         <div class="row top-grids">
-            <div class="col-md-6 grid1">
+            <div class="col-md-6 col-md-offset-3 grid1">
                 <div class="grid">
                     <h2>Create new album</h2>
                     <form id="newAlbum">
@@ -34,10 +41,11 @@
                     </form>
                 </div>
             </div>
-            <div class="col-md-4">
-                <div class="grid" id="errors">
-                </div>
-            </div>
+            <script type="text/javascript">
+                $(function(){
+                    
+                });
+            </script>
             <div class="clearfix"> </div>
         </div>
     </div>

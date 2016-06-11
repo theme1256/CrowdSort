@@ -5,8 +5,24 @@
 <?php }else{?>
 <div class="">
 	<div class="container-fluid">
+		<div class="row">
+			<div class="col-md-6 col-md-offset-3">
+				<div class="grid">
+					<?php if(!empty($_SESSION['errors'])){?>
+					<h2>Error</h2>
+					<p><?php echo $_SESSION['errors'];?></p>
+					<?php }if($_SESSION['success']){ $_SESSION['success'] = "";?>
+					<h2>Success</h2>
+					<p>
+						The information was successfully updated.
+						<?php if(!empty($_SESSION['errors'])){echo "But not the passwords.";}?>
+					</p>
+					<?php }$_SESSION['errors'] = "";?>
+				</div>
+			</div>
+		</div>
 		<div class="row top-grids">
-			<div class="col-md-4 text-center grid1">
+			<div class="col-md-4 text-center grid1 col-md-offset-2">
 				<div class="grid">
 					<script src="/js/dropzone.js"></script>
 					<img src="/img/profile/<?php echo $r['pic'];?>" alt="" class="profilePic"/> 
@@ -35,20 +51,6 @@
 						New Password: <input type="password" id="pass3" name="password3" placeholder="Just to make sure you got it right"/><br/>
 						<input type="submit" value="Update"/>
 					</form>
-				</div>
-			</div>
-			<div class="col-md-4">
-				<div class="grid">
-					<?php if(!empty($_SESSION['errors'])){?>
-					<h2>Error</h2>
-					<p><?php echo $_SESSION['errors'];?></p>
-					<?php }if($_SESSION['success']){ $_SESSION['success'] = "";?>
-					<h2>Success</h2>
-					<p>
-						The information was successfully updated.
-						<?php if(!empty($_SESSION['errors'])){echo "But not the passwords.";}?>
-					</p>
-					<?php }$_SESSION['errors'] = "";?>
 				</div>
 			</div>
 			<div class="clearfix"> </div>
