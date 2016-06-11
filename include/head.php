@@ -176,7 +176,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                         <li class="">
                             <a class="subNavBtn menu" href="/home">Crowdsort</a>
                         </li>
-                        <?php $a = array('home', 'user', 'about'); if(in_array(curPageName(), $a) || (curPageName() == "album" && !isset($_GET['ID']))){?>
+                        <?php $a = array('home', 'user', 'about', 'friends'); if(in_array(curPageName(), $a) || (curPageName() == "album" && !isset($_GET['ID']))){?>
                         <li class="">
                             <p style="margin: 0; cursor: pointer;" onclick="window.location.href='/user';">Welcome <?php echo $_SESSION['alias'];?></p>
                             Score: <?php echo $_SESSION['score'];?>
