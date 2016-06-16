@@ -6,7 +6,7 @@
 <div class="">
 	<div class="container-fluid">
 		<div class="row">
-			<div class="col-md-6 col-md-offset-3">
+			<div class="col-md-8 col-md-offset-2">
 				<div class="grid">
 					<?php if(!empty($_SESSION['errors'])){?>
 					<h2>Error</h2>
@@ -22,7 +22,7 @@
 			</div>
 		</div>
 		<div class="row top-grids">
-			<div class="col-md-4 text-center grid1 col-md-offset-2">
+			<div class="col-md-5 text-center grid1 col-md-offset-1">
 				<div class="grid">
 					<script src="/js/dropzone.js"></script>
 					<img src="/img/profile/<?php echo $r['pic'];?>" alt="" class="profilePic"/> 
@@ -40,7 +40,7 @@
 					</p>
 				</div>
 			</div>
-			<div class="col-md-4 grid1">
+			<div class="col-md-5 grid1">
 				<div class="grid">
 					<h2>Info</h2>
 					<form action="<?php echo SCRIPTS;?>updateUser.php" method="post" enctype="multipart/form-data">

@@ -9,7 +9,7 @@
 <div class="productive.ly">
 	<div id="cbp-so-scroller" class="cbp-so-scroller">
 		<div class="content_top">
-			<div class="ipad_desc" id="about">
+			<div class="col-md-6 col-md-offset-3" id="about">
 				<h3>Success</h3>
 				<p>
 					Your acount has been activated and you now have access to this awesome system.<br/>
@@ -26,7 +26,7 @@
 <div class="productive.ly">
 	<div id="cbp-so-scroller" class="cbp-so-scroller">
 		<div class="content_top">
-			<div class="ipad_desc" id="about">
+			<div class="col-md-6 col-md-offset-3" id="about">
 				<h3>Error</h3>
 				<p>
 					That combination does not match anything in the system.<br/>
@@ -44,7 +44,7 @@
 <div class="productive.ly">
 	<div id="cbp-so-scroller" class="cbp-so-scroller">
 		<div class="content_top">
-			<div class="ipad_desc" id="about">
+			<div class="col-md-6 col-md-offset-3" id="about">
 				<h3>Just one step left</h3>
 				<p>
 					An email has been send to you.<br/>
